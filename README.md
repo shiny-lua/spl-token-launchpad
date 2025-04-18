@@ -18,7 +18,7 @@ This project is a launchpad for SPL tokens built using TypeScript and Solana's P
 
 1. Clone the repository:
     \`\`\`bash
-    git clone https://github.com/whistledev411/spl-token-launchpad.git
+    git clone https://github.com/shiny-lua/spl-token-launchpad.git
     cd spl-token-launchpad
     \`\`\`
 
